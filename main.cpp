@@ -11,7 +11,7 @@ double multiply(double a, double b) {
 
 
 int main() {
-    // Get user input for two numbers
+    // Get user input for two numberspkojkpo
     double num1, num2;
     std::cout << "Enter the first number: ";
     std::cin >> num1;
